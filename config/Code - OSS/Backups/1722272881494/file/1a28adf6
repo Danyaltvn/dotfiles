@@ -1,0 +1,6 @@
+file:///home/tails/Flutter%20Project/happy_ticket/lib/main.dart {"mtime":1721212818394,"ctime":1721212795664,"size":4968,"etag":"3cmirqn0f558","orphaned":false,"typeId":""}
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}

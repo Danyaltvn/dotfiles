@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/StudioProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.dart [untitled]" projectWorkspaceId="2jNEobjRqLwNX2RjnESJecwOzKU">
+              <option name="activationTimestamp" value="1721219535593" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.18034.62.2411.12071903" />
+              <option name="buildTimestamp" value="1720645980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1000" y="51" width="901" height="1010" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721219316865" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Flutter Project/happy_ticket">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2jPVw5vEsiAFkz0KHJe4U709aSj">
+              <option name="activationTimestamp" value="1721291422007" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.18034.62.2411.12071903" />
+              <option name="buildTimestamp" value="1720645980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1721288936082" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Flutter Project/happy_ticket" />
+    <option name="lastProjectLocation" value="$USER_HOME$/StudioProjects" />
+  </component>
+</application>

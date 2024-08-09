@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Cut">
+      <i c="1" l="1721289994735" />
+    </e>
+    <e n="$SelectAll">
+      <i c="3" l="1721290534369" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1721219540549" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="3" l="1721290721889" />
+    </e>
+    <e n="ConfigureEditorTabs">
+      <i c="2" l="1721290147877" />
+    </e>
+    <e n="CopyContentRootPath">
+      <i c="1" l="1721289848958" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="1" l="1721289844833" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="3" l="1721765800564" />
+    </e>
+    <e n="Dart.NewDartFile">
+      <i c="2" l="1721290048771" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="64" l="1721290724355" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="9" l="1721290333537" />
+    </e>
+    <e n="EditorDown">
+      <i c="11" l="1721290725622" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1721290542839" />
+    </e>
+    <e n="EditorEnter">
+      <i c="6" l="1721290317952" />
+    </e>
+    <e n="EditorLeft">
+      <i c="48" l="1721290337010" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="4" l="1721290547563" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1721290535133" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="17" l="1721290547989" />
+    </e>
+    <e n="EditorRight">
+      <i c="77" l="1721290727257" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="3" l="1721290146410" />
+    </e>
+    <e n="EditorUp">
+      <i c="7" l="1721290723031" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1721290023255" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1721289947273" />
+    </e>
+    <e n="Run">
+      <i c="8" l="1721290639645" />
+    </e>
+    <e n="SaveAll">
+      <i c="3" l="1721290362505" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1721219469399" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1721219265120" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1721288925222" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="1" l="1721219203459" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1721290176150" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="5" l="1721219447368" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="5" l="1721290090623" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="4" l="1721765798859" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1721219451594" />
+    </e>
+    <e n="flutter.NewProject.welcome">
+      <i c="2" l="1721219283637" />
+    </e>
+    <e n="io.flutter.FlutterInitializer$3">
+      <i c="1" l="1721219407045" />
+    </e>
+  </component>
+</application>

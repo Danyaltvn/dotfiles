@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-shellscript=Alacritty.desktop
+
+[Added Associations]
+application/x-shellscript=Alacritty.desktop;

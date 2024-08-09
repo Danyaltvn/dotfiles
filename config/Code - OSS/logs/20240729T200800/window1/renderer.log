@@ -1,0 +1,4 @@
+2024-07-29 20:08:02.805 [info] Started local extension host with pid 12502.
+2024-07-29 20:08:03.061 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tails/.vscode-oss/extensions
+2024-07-29 20:08:04.075 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/tails/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/tails/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-07-29 20:08:04.075 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tails/.vscode-oss/extensions

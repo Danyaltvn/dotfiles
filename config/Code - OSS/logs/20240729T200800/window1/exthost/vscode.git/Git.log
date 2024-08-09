@@ -1,0 +1,4 @@
+2024-07-29 20:08:04.954 [info] Log level: Info
+2024-07-29 20:08:04.954 [info] Validating found git in: "git"
+2024-07-29 20:08:04.954 [info] Using git "2.45.2" from "git"
+2024-07-29 20:08:04.954 [warning] Failed to get repository realpath for: "/home/tails/Flutter Project/happy_ticket/lib". Error: ENOENT: no such file or directory, realpath '/home/tails/Flutter Project/happy_ticket/lib'

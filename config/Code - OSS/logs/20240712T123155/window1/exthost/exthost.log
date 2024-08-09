@@ -1,0 +1,218 @@
+2024-07-12 12:32:06.620 [info] Extension host with pid 24731 started
+2024-07-12 12:32:06.990 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-12 12:32:07.110 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-12 12:32:07.155 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-12 12:32:07.396 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-12 12:32:07.591 [info] Eager extensions activated
+2024-07-12 12:32:07.618 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 12:32:07.674 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 12:34:36.828 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onCommand:flutter.createProject'
+2024-07-12 12:34:54.798 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-12 12:34:54.905 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-12 12:34:55.043 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-12 12:35:21.652 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-12 12:35:21.688 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at setCommandVisiblity (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13641:22)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13618:9)
+	at Generator.next (<anonymous>)
+	at /home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12742:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.291.__awaiter (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12738:12)
+	at Object.deactivate (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13617:12)
+	at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:9844)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+	at Array.map (<anonymous>)
+	at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+	at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+	at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 12:35:21.688 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at setCommandVisiblity (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13642:22)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13618:9)
+	at Generator.next (<anonymous>)
+	at /home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12742:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.291.__awaiter (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12738:12)
+	at Object.deactivate (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13617:12)
+	at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:9844)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+	at Array.map (<anonymous>)
+	at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+	at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+	at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 12:35:21.688 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at setCommandVisiblity (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13643:22)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13618:9)
+	at Generator.next (<anonymous>)
+	at /home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12742:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.291.__awaiter (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12738:12)
+	at Object.deactivate (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13617:12)
+	at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:9844)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+	at Array.map (<anonymous>)
+	at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+	at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+	at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 12:35:21.688 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at setCommandVisiblity (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13644:22)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13618:9)
+	at Generator.next (<anonymous>)
+	at /home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12742:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.291.__awaiter (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12738:12)
+	at Object.deactivate (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13617:12)
+	at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:9844)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+	at Array.map (<anonymous>)
+	at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+	at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+	at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 12:35:21.689 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at VsCodeDartToolingDaemon.dispose (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:11896:32)
+	at d (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at m.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:10039)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7915
+	at Array.map (<anonymous>)
+	at m.$ (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:7902)
+	at m.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:160:8175)
+	at d.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:10617)
+	at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:177:6809)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 12:35:21.690 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13625:26)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12739:58) setContext undefined
+2024-07-12 12:35:21.690 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13627:30)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12739:58) setContext undefined
+2024-07-12 12:35:21.690 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at Object.<anonymous> (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:13628:30)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:12739:58) setContext undefined
+2024-07-12 12:35:21.693 [error] Canceled: Canceled
+	at new I (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:144:34990)
+	at S.U (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203861)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at A.registerCommand.description (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:202623)
+	at f.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:204400)
+	at f.g (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203392)
+	at f.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:154:203299)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:164:23051)
+	at VsCodeDartToolingDaemon.dispose (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:11896:32)
+	at VsCodeDartToolingDaemon.handleClose (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:25150:14)
+	at VsCodeDartToolingDaemon.handleClose (/home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:11889:15)
+	at /home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal/out/dist/extension.js:25083:58
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2024-07-12 12:35:21.694 [info] Extension host with pid 24731 exiting with code 0
+2024-07-12 15:35:24.127 [info] Extension host with pid 25278 started
+2024-07-12 15:35:24.127 [info] Skipping acquiring lock for /home/tails/.config/Code - OSS/User/workspaceStorage/8eaa7f868ea2b0dd9130c472e3ceb00e.
+2024-07-12 15:35:24.191 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-12 15:35:24.225 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-12 15:35:24.250 [info] Eager extensions activated
+2024-07-12 15:35:24.264 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 15:35:24.267 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 15:35:26.015 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-12 15:35:26.106 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'workspaceContains:flutter.create'
+2024-07-12 15:35:31.113 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2024-07-12 15:35:31.501 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

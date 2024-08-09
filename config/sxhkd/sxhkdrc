@@ -1,0 +1,140 @@
+#
+# Независимые горячие клавиши wm
+#
+
+# Запуск терминала
+super + Return
+	alacritty
+
+# Меню программ
+super + d
+	rofi -show drun
+
+
+# Перезапуск sxhkd
+super + Escape
+	pkill -USR1 -x sxhkd
+
+#
+# Горячие клавиши bspwm
+#
+
+
+# Change language
+Alt_L + shift
+	sh $HOME/bin/change_language.sh
+
+Shift_L + alt
+	sh $HOME/bin/change_language.sh
+    
+
+# Горячие клавиши для запуска программ
+super + shift + {f,t,x,c,o,k,p}
+	{firefox,\
+	thunar,\
+	sh $HOME/bin/xcolor-pick.sh,\
+	code,\
+	obsidian,\
+	alacritty -e calcurse,\
+	pavucontrol}
+
+# Выход/перезагрузка bspwm
+super + shift + {q,r}
+	bspc {quit,wm -r}
+
+# base bar
+super + F1
+	$HOME/.config/polybar/scripts/launch.sh
+
+# Second bar
+super + F2
+	$HOME/.config/polybar/scripts/launch_second.sh
+
+# Закрыть программу
+super + c
+	bspc node -k
+
+# Чередование тайла и монокля
+super + m
+	bspc desktop -l next
+
+# Поменять местами текущее окно с самым большим
+super + g
+	bspc node -s biggest.window
+
+# Скриншоты
+Print
+	flameshot gui
+
+#
+# состояние
+#
+
+# Установка состояния окна
+super + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+#
+# Фокус/смена
+#
+
+# Чередование плавающего окна и тайла
+super + space
+	bspc node -t "~"{floating,tiled}
+
+# Перемещение окна
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# Переключится на последний рабочий стол
+super + {grave,Tab}
+	bspc {node,desktop} -f last
+
+# Переключение между рабочими столами
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+
+#
+# Предварительный выбор
+#
+
+# Выбор местоположения окна
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# Выбор размера окна
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# Отмена выбора
+super + ctrl + space
+	bspc node -p cancel
+
+#
+# move/resize
+#
+
+# Переместить край наружу
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# Переместить край внутрь
+super + alt + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+# Перемещение плавающего окна
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+#
+#
+# Прочие скрипты
+#
+#
+
+# Рандомные обои
+super + w
+	sh $HOME/bin/random-wallpaper.sh
+
+# Для Рины
+F12
+	notify-send -a Солнышко "Люблю тебя сильно!)"

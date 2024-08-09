@@ -1,0 +1,36 @@
+2024-07-12 12:32:05.336 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tails/.vscode-oss/extensions
+2024-07-12 12:32:05.855 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tails/.vscode-oss/extensions
+2024-07-12 12:32:11.655 [info] Getting Manifest... dart-code.flutter
+2024-07-12 12:32:11.853 [info] Installing extension: dart-code.flutter {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/tails/.vscode-oss/extensions/extensions.json","path":"/home/tails/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-03T20:40:42.797Z"}}
+2024-07-12 12:32:12.089 [info] Getting Manifest... dart-code.dart-code
+2024-07-12 12:32:12.497 [info] Installing extension: dart-code.dart-code {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/tails/.vscode-oss/extensions/extensions.json","path":"/home/tails/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-03T20:40:42.797Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-12 12:32:13.226 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-07-12 12:32:13.226 [info] Extension signature verification is not done: dart-code.flutter
+2024-07-12 12:32:13.264 [info] Extracted extension to file:///home/tails/.vscode-oss/extensions/dart-code.flutter-3.92.0-universal: dart-code.flutter
+2024-07-12 12:32:13.303 [info] Renamed to /home/tails/.vscode-oss/extensions/dart-code.flutter-3.92.0-universal
+2024-07-12 12:32:13.395 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tails/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tails/.vscode-oss/extensions/extensions.json.vsctmp'
+    at h.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-12 12:32:20.157 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-07-12 12:32:20.158 [info] Extension signature verification is not done: dart-code.dart-code
+2024-07-12 12:32:35.424 [info] Extracted extension to file:///home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal: dart-code.dart-code
+2024-07-12 12:32:35.473 [info] Renamed to /home/tails/.vscode-oss/extensions/dart-code.dart-code-3.92.0-universal
+2024-07-12 12:32:35.527 [info] Extension installed successfully: dart-code.flutter vscode-userdata:/home/tails/.vscode-oss/extensions/extensions.json
+2024-07-12 12:32:35.528 [info] Extension installed successfully: dart-code.dart-code vscode-userdata:/home/tails/.vscode-oss/extensions/extensions.json
+2024-07-12 12:32:35.565 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/tails/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/tails/.vscode-oss/extensions/extensions.json.vsctmp'
+    at h.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)

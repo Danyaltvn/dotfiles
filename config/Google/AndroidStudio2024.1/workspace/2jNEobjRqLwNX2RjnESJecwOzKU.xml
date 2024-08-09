@@ -1,0 +1,160 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="rq9wkkkwvpya" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1721288325888
+    },
+    "Dart": {
+      "usageCount": 2,
+      "lastUsed": 1721288324330
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dart">
+      <summary usageCount="2" lastUsage="1721288324333" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1721288325888" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tails/StudioProjects/untitled}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="1abcf292:AndroidViewProjectNode" />
+              <item name="untitled_android" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="untitled" type="1abcf292:AndroidViewProjectNode" />
+              <item name="untitled_android" type="feadf853:AndroidModuleNode" />
+              <item name="dir{file:///home/tails/StudioProjects/untitled/android}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="untitled-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33043247" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33019802" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33019802" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.33019802" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Device Manager 2" order="3" visible="true" weight="0.14952531" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.3301887" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.3301887" />
+      <window_info anchor="right" id="Flutter Deep Links" order="6" />
+      <unified_weights bottom="0.33019802" left="0.33043247" right="0.14952531" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Device Manager 2</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Running Devices</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="938" y="206" key="SettingsEditor" timestamp="1721219475037">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="938" y="206" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721219475037" />
+    <state x="553" y="203" width="800" height="706" key="new project wizard" timestamp="1721288522661">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="203" width="800" height="706" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1721288522661" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

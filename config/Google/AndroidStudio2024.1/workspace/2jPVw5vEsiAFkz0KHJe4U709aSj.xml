@@ -1,0 +1,232 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="happy_ticket" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="rq9wkkkwvpya">
+      <file>
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1721288939328
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1721290411556
+    },
+    "Dart": {
+      "usageCount": 7,
+      "lastUsed": 1721290179792
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+      <option value="$PROJECT_DIR$/lib/design/colors.dart" />
+      <option value="$PROJECT_DIR$/pubspec.yaml" />
+      <option value="$PROJECT_DIR$/lib/pages/home.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dart">
+      <summary usageCount="7" lastUsage="1721290179792" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1721288939331" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1721290411556" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="happy_ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happy_ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happy_ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket/lib/assets}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="happy_ticket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tails/Flutter Project/happy_ticket/lib/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="happy_ticket" type="1abcf292:AndroidViewProjectNode" />
+              <item name="happy_ticket" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="happy_ticket" type="1abcf292:AndroidViewProjectNode" />
+              <item name="happy_ticket" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Flutter.main.dart" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13844937" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.2371287" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.2371287" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Flutter Deep Links" order="5" />
+      <unified_weights bottom="0.2371287" left="0.13844937" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1814" height="197" key="GridCell.Tab.0.bottom" timestamp="1721291617437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1721291617437" />
+    <state width="1814" height="197" key="GridCell.Tab.0.center" timestamp="1721291617436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="197" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1721291617436" />
+    <state width="1814" height="197" key="GridCell.Tab.0.left" timestamp="1721291617436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="197" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1721291617436" />
+    <state width="1814" height="197" key="GridCell.Tab.0.right" timestamp="1721291617437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="197" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1721291617437" />
+    <state x="462" y="206" key="SettingsEditor" timestamp="1721290168112">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="462" y="206" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721290168112" />
+    <state x="691" y="277" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1721289949195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="277" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1721289949195" />
+    <state x="553" y="218" width="800" height="676" key="new project wizard" timestamp="1721291607287">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="218" width="800" height="676" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1721291607287" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#234#278#0#Markdown" expanded="true" />
+            <element signature="e#317#350#0#Markdown" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/assets/img/design/colors.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="78" column="52" selection-start-line="78" selection-start-column="52" selection-end-line="78" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/home.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
